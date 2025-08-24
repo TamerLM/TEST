@@ -33,10 +33,10 @@
 .navbar ul {
     display: flex;
     justify-content: space-between;
-    gap: 1.2rem;
+    width: 550px;  
     list-style: none;
-    flex-wrap: wrap;
-    padding-right: 35px;
+    padding-right: 4%;
+    padding-top: 8.5%;
 }
 
 .navbar ul li a {
@@ -231,4 +231,5 @@
         max-width: 100%;
     }
 }
+
 
