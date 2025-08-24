@@ -36,7 +36,7 @@
     width: 550px;  
     list-style: none;
     padding-right: 4%;
-    padding-top: 8.5%;
+    padding-top: 5.5%;
 }
 
 .navbar ul li a {
@@ -231,5 +231,6 @@
         max-width: 100%;
     }
 }
+
 
 
